@@ -1,0 +1,12 @@
+
+MC.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+character
+  rotate: false
+  xy: 1, 1
+  size: 272, 256
+  orig: 272, 256
+  offset: 0, 0
+  index: -1
