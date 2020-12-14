@@ -1,7 +1,7 @@
 # Diamond_Hunt
 
 # Description
-<p align = "left" style = "box-shadow: 10px 5px 5px red;">The game will involve one character the user is playing as.
+<p align = "left" style = "box-shadow: 10px 5px 5px red">The game will involve one character the user is playing as.
 The user must find a certain number of gems randomly spawned in the area 
 The area will also have enemies randomly placed around the map
 The user must fend off these enemies while collecting the gems
